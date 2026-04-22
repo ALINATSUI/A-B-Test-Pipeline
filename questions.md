@@ -7,7 +7,8 @@ Establish what was already done before this A/B test. What are some questions yo
 3. In what time frame was this data collected?
 4. Why did we run this experiment and what was the hypothesis we started with? 
 5. Did you purchase this data? How did you collect this data? 
-6. We discovered that viewing time increased with lower word count. 7. Is this an accurate representation of what you notice in real life?  
+6. We discovered that viewing time increased with lower word count.
+7. Is this an accurate representation of what you notice in real life?  
 8. What are your goals? Why are you doing this? 
 9. How do you intend to use this data moving forward? 
 
