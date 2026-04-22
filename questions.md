@@ -18,13 +18,20 @@ Align with stakeholders on what success means before interpreting any numbers.
 1. Which KPI's are actually important for you? 
 2. Which KPI's are you responsible for? 
 3. What does it look like when you achieve beyond your KPIs? 
+4. How do you know what success looks like? What are some measurable outcomes 
+that signifies success (i.e, will participants be expected to create projects using newfound data skills as evidence?) 
 
 
 ## Define Over-performance 
 Consider what it would mean if the treatment dramatically exceeded expectations.
 
-1. 
+
+1. How are we defining metrics for over-performance? Are there several phases to suggest degrees of over-performance?  
+2. Are there any negative drawbacks for the treatment to over-perform at a high level (i.e, are we compromising anything due to decreased word count such as message effectiveness)? 
+
 
 ## Data Sourcing
 Reflect on what other data sources you can use to answer your stakeholders exploratory goals.
 
+1. We can implement a survey for the control and treatment group to track the level of engagement, get feedback from participants to compare and contrast. 
+2. We can also check resources on what the desired word count is for maximum effectiveness/retention and compare to the treatment group. I checked this resource("https://www.storytellingwithdata.com/blog/how-many-words-is-too-many") which pointed to the font size of 30 or larger to make a strong impact for messaging. As we don't know what the font size is for the revamped slide, this piece of information would be helpful in gauging level of engagement or see where we can do a better job.
